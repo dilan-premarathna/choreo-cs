@@ -1,1 +1,1 @@
-# slackInteractionSummery
+# slack-interaction-summery
