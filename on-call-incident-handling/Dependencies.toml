@@ -1,0 +1,11 @@
+[[dependency]]
+org = "ballerinax"
+name = "googleapis.gmail"
+version = "0.99.11"
+
+[[dependency]]
+org = "ballerinax"
+name = "googleapis.sheets"
+version = "0.99.11"
+
+
